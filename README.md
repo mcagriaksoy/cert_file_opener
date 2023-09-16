@@ -28,7 +28,7 @@ PyQt is developed by Riverbank Computing Limited and is distributed under a choi
 ![image](https://github.com/mcagriaksoy/cert_file_opener/assets/20202577/df465890-50b1-4018-af4c-4e04d15614f3)
 
 # Feedback
-If you have any feedback, suggestions, or issues with Cert File Opener, please feel free to contact me at mcagriaksoy@gmail.com or create an issue on [GitHub]. I appreciate your support and input.
+If you have any feedback, suggestions, or issues with Cert File Opener, please feel free to contact me or create an issue on [GitHub]. I appreciate your support and input.
 
 # Download
 
